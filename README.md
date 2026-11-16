@@ -3,7 +3,7 @@
 # EBRC-3D-plane-simulator-for-B-W-Radios
 EBRC 3D plane simulator for B&amp;W Radios can work on all radios flashed with EdgeTX and OpenTX, works on both 128x64 and 212x64 pixel screens, it has many simulation options and it's entertaining, also useful at the field to test newbies, show the execution of maneuvers or do whatever you can do with a regular sim but directly on your radio, etc...
 
-Installation: extract the content of this file and copy them to the following address in your sdcard: sdcard/SCRIPTS/TOOLS.
+Installation: extract the content of the ZIP file and copy them to the following address in your sdcard: sdcard/SCRIPTS/TOOLS.
 
 Execution: Press and hold the menu button on your radio to enter TOOLS page and select: EBRC 3D Plane Simulator.
 
