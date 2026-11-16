@@ -1,4 +1,6 @@
-<img width="424" height="128" alt="img_0000" src="https://github.com/user-attachments/assets/020a325c-ffbb-45c8-8096-6671a86fa862" /># EBRC-3D-plane-simulator-for-B-W-Radios
+<img width="424" height="128" alt="img_0033" src="https://github.com/user-attachments/assets/cda2665f-0dd6-4aba-8229-92f25a377235" />
+
+# EBRC-3D-plane-simulator-for-B-W-Radios
 EBRC 3D plane simulator for B&amp;W Radios can work on all radios flashed with EdgeTX and OpenTX, works on both 128x64 and 212x64 pixel screens, it has many simulation options and it's entertaining, also useful at the field to test newbies, show the execution of maneuvers or do whatever you can do with a regular sim but directly on your radio, etc...
 
 Installation: extract the content of this file and copy them to the following address in your sdcard: sdcard/SCRIPTS/TOOLS.
@@ -16,6 +18,7 @@ Enjoy!
 لذت ببرید!
 
 
+<img width="424" height="128" alt="img_0000" src="https://github.com/user-attachments/assets/020a325c-ffbb-45c8-8096-6671a86fa862" />
 <img width="424" height="128" alt="img_0044" src="https://github.com/user-attachments/assets/50edf4ea-fa5d-4db3-a4a5-b915baf60930" />
 <img width="424" height="128" alt="img_0043" src="https://github.com/user-attachments/assets/e62aadda-f3f5-43e1-92e0-834406513a16" />
 <img width="424" height="128" alt="img_0042" src="https://github.com/user-attachments/assets/cbc6c890-c063-43fe-8023-4a9fecbf8faa" />
@@ -24,7 +27,6 @@ Enjoy!
 <img width="424" height="128" alt="img_0036" src="https://github.com/user-attachments/assets/8b0e9f66-1042-485b-85c5-9b3018713c2f" />
 <img width="424" height="128" alt="img_0035" src="https://github.com/user-attachments/assets/b7a3b45a-46f1-48d9-b7ad-f97caa35aeab" />
 <img width="424" height="128" alt="img_0034" src="https://github.com/user-attachments/assets/286b91e8-585d-4c9f-ac99-697b771d9987" />
-<img width="424" height="128" alt="img_0033" src="https://github.com/user-attachments/assets/cda2665f-0dd6-4aba-8229-92f25a377235" />
 <img width="424" height="128" alt="img_0032" src="https://github.com/user-attachments/assets/44d1536a-ea05-4a38-a80c-867169f32251" />
 <img width="424" height="128" alt="img_0031" src="https://github.com/user-attachments/assets/61766c3b-4f16-4ca3-95ce-aa68818dcb2f" />
 <img width="424" height="128" alt="img_0030" src="https://github.com/user-attachments/assets/e3164a55-e9f0-4d42-88d0-1836b0b3ae5f" />
